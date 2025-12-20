@@ -1,0 +1,10 @@
+# Ignore model artifacts
+*.pkl
+
+# Optional: Python cache
+__pycache__/
+*.pyc
+
+# Optional: virtual environments
+venv/
+.env/
