@@ -2,7 +2,7 @@
 
 **Prepared for:** Management Review  
 **Project:** Lead Scoring and Conversion Prediction System  
-**Date:** January 1, 2026  
+**Date:** January 2026  
 **Repository:** [ahfi0999/lead_project](https://github.com/ahfi0999/lead_project)
 
 ---
