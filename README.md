@@ -161,6 +161,17 @@ This project is open source and available for educational and commercial use.
 
 If you encounter any issues or have questions, please open an issue in the GitHub repository.
 
+## 📄 Project Reports
+
+This repository includes comprehensive project documentation and reports:
+
+- **`PROJECT_SUMMARY.md`** - One-page quick overview (perfect for emails)
+- **`EXECUTIVE_SUMMARY.md`** - 4-page management report with business impact
+- **`WORK_REPORT.md`** - 16-page complete technical documentation
+- **`REPORT_GUIDE.md`** - Guide to help choose the right document
+
+These reports are ideal for project reviews, portfolio inclusion, or management presentations.
+
 ---
 
 **Happy Lead Scoring! 🎉**
